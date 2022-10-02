@@ -1,0 +1,16 @@
+{
+  "name": "async_landing_page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fetch": "^1.1.0",
+    "node": "^18.10.0"
+  }
+}
